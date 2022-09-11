@@ -6,29 +6,29 @@ iOS multi-feature news application fetching the latest news from newsapi.org
 ## Features
 
 ### Categories
-Search for categories including general, sports, entertainment, business, technology, science, and health
-![Alt text](./images/categories.png?raw=true "Optional Title")
+Search for categories including general, sports, entertainment, business, technology, science, and health <br>
+<img src="./images/categories.png" width="200" />
 
 ### Bookmark
-Option to bookmark and share news articles
-![Alt text](./images/bookmark.png?raw=true "Optional Title")
+Option to bookmark and share news articles<br>
+<img src="./images/bookmark.png" width="200" />
 
 ### Sharing
-Option to share news articles
-![Alt text](./images/sharing.png?raw=true "Optional Title")
+Option to share news articles<br>
+<img src="./images/sharing.png" width="200" />
 
 ### Safari WebView
-Read articles within Safari WebView 
-![Alt text](./images/webview.png?raw=true "Optional Title")
+Read articles within Safari WebView<br>
+<img src="./images/webview.png" width="200" />
 
 ### Search
-Ability to search for news articles. Search for categories, article names, date published, etc.
-![Alt text](./images/search.png?raw=true "Optional Title")
+Ability to search for news articles. Search for categories, article names, date published, etc.<br>
+<img src="./images/search.png" width="200" />
 
 ### Search History
-Presents a list of previously searched articles
-![Alt text](./images/history.png?raw=true "Optional Title")
+Presents a list of previously searched articles<br>
+<img src="./images/history.png" width="200" />
 
 ### Suggested Searches
-Presents a list of suggested article searches
-![Alt text](./images/suggested.png?raw=true "Optional Title")
+Presents a list of suggested article searches<br>
+<img src="./images/suggested.png" width="200" />
